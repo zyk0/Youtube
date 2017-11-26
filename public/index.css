@@ -1,0 +1,24 @@
+/*Sticky Footer materialize css*/
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+main {
+	flex: 1 0 auto;
+}
+
+.cards{
+	margin: 10px 0px 0px 0px;
+}
+
+.brand-logo{
+	margin-left: 25px;
+}
+
+.lom{
+	margin: 0px 0px 0px 10px;
+}
+
+
