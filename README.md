@@ -2,6 +2,12 @@
 запуск: npm start.
 http://localhost:3000/
 используйте свой API-ключ !!
-https://developers.google.com/youtube/v3/getting-started
-,
-https://www.youtube.com/watch?v=4AQ9UamPN6E
+
+
+
+как получить ключ:
+ developers.google.com/youtube/v3/getting-started, youtube.com/watch?v=4AQ9UamPN6E
+
+  
+  
+<a href="https://ibb.co/cqEBdR"><img src="https://preview.ibb.co/hEKcJR/YT.png" alt="YT" border="0"></a>
