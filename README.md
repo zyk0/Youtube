@@ -1,12 +1,10 @@
-сделано на react.js, materializeCSS, react-build-app, Youtube-API.
+сделано на react.js, materializeCSS, Youtube API.
 запуск: npm start.
 http://localhost:3000/
-используйте свой API-ключ !!
 
 
-
-как получить ключ:
- developers.google.com/youtube/v3/getting-started, youtube.com/watch?v=4AQ9UamPN6E
+как получить API-ключ Youtube:
+developers.google.com/youtube/v3/getting-started, youtube.com/watch?v=4AQ9UamPN6E
 
   
   
