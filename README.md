@@ -1,4 +1,4 @@
-сделано на react.js, materializeCSS, Youtube API.
+сделано на Create-React-App (react, materializeCSS, Youtube API).
 запуск: npm start.
 http://localhost:3000/
 
